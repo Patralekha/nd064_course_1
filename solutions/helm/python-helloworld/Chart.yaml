@@ -4,7 +4,7 @@ description: Install a Python HelloWorld deployment
 keywords:
 - python
 - helloworld 
-version: latest
+version: 1.0.0
 maintainers:
 - name: patralekha 
   email: bhattacharjeepatralekha@xyz.com
